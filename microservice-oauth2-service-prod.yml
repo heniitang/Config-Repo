@@ -10,7 +10,7 @@ druid:
       filters: stat,wall,slf4j
 
 redis:
-    host: localhost
+    host: 192.168.71.146
     port: 6379
 
 server:
